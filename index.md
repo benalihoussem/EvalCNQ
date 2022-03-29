@@ -10,10 +10,11 @@
 # CNQ
 ![Image](cnq.png)
 # Exemples
-![Image](dexemple.png)
+![Image](exemple.png)
 # Méthodologie
-
+![Image](metho.png)
 # DI & DE
+![Image](di.png)
 # PARETO
 # Matrice de HOSHIN
 # Indic. d'avancement
