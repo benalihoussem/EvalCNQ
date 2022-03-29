@@ -8,7 +8,9 @@
 # Déf CNQ
 ![Image](def.png)
 # CNQ
+![Image](cnq.png)
 # Exemples
+![Image](dexemple.png)
 # Méthodologie
 
 # DI & DE
