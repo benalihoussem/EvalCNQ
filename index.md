@@ -25,8 +25,8 @@
 # Indic. d'avancement
 ![Image](ind.png)
 # Indic. de Performance
-![Image](perf1.png){:height="150" width="150"} ![Image](perf2.png)
- ![Image](perf3.png =250x250)
+![Image](perf1.png width="200" height="200" ) ![Image](perf2.png width="200" height="200" )
+ ![Image](perf3.png width="200" height="200" )
 
 
 
