@@ -5,9 +5,16 @@
 
 # Chiffres clés
 # Déf CNQ
-# Header 1
-# Header 1
-# Header 1
+# CNQ
+# Exemples
+# Méthodologie
+
+# DI & DE
+# PARETO
+# Matrice de HOSHIN
+# Indic. d'avancement
+# Indic. de Performance
+
 
 You can use the [editor on GitHub](https://github.com/houssembenali22/EvalCNQ/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
