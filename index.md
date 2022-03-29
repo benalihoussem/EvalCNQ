@@ -16,6 +16,8 @@
 # DI & DE
 ![Image](di.png)
 # PARETO
+![Image](par1.png)
+![Image](par2.png)
 # Matrice de HOSHIN
 # Indic. d'avancement
 # Indic. de Performance
