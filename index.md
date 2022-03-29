@@ -19,8 +19,15 @@
 ![Image](par1.png)
 ![Image](par2.png)
 # Matrice de HOSHIN
+![Image](matrice.png)
+# GANTT
+![Image](gantt.png)
 # Indic. d'avancement
+![Image](ind.png)
 # Indic. de Performance
+![Image](perf1.png) ![Image](perf2.png)
+ ![Image](perf3.png)
+
 
 
 You can use the [editor on GitHub](https://github.com/houssembenali22/EvalCNQ/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
