@@ -6,6 +6,7 @@
 # Chiffres clés
 ![Image](ck.png)
 # Déf CNQ
+![Image](def.png)
 # CNQ
 # Exemples
 # Méthodologie
