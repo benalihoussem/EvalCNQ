@@ -4,6 +4,7 @@
 # Projet
 ![Image](projet.png)
 # Chiffres clés
+![Image](ck.png)
 # Déf CNQ
 # CNQ
 # Exemples
