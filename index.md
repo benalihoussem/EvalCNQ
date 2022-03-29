@@ -25,10 +25,9 @@
 # Indic. d'avancement
 ![Image](ind.png)
 # Indic. de Performance
-![Image](perf1.png){width="200" height="200" } 
-![Image](perf2.png) { width="200" height="200"}
-![Image](perf3.png) {width="200" height="200" }
-<img src="perf3.png" width="120" height="120">
+<img src="perf1.png" width="200" height="200">
+<img src="perf2.png" width="200" height="200">
+<img src="perf3.png" width="200" height="200">
 
 Source: https://prograide.com/pregunta/68715/changer-la-taille-des-images-dans-markdown-sur-gitlab
 
